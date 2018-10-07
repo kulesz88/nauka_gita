@@ -15,3 +15,6 @@ __This will also be bold__
 
 This are new changes in README file.
 Second change in file.
+
+
+Git fajny jest do wersjonowania.
