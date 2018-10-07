@@ -22,3 +22,5 @@ Git fajny jest do wersjonowania.
 
 Teraz juz mamy polaczenie z GitHub.<br/>
 *Ciekawe jak teraza bedzie* __(v5)__
+
+Teraz jestesmy na branchu eksperyment i tam sa zmiany.
