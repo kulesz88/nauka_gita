@@ -18,3 +18,6 @@ Second change in file.
 
 
 Git fajny jest do wersjonowania.
+
+
+Teraz juz mamy polaczenie z GitHub.
