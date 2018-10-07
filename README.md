@@ -11,3 +11,7 @@ __This will also be bold__
 * list3
 
 # new
+
+
+This are new changes in README file.
+Second change in file.
